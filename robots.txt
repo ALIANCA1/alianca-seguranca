@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /dados-privados/
+Disallow: /administracao.html
+Disallow: /area-cliente.html
+Disallow: /login-cliente.html
+Disallow: /area-cliente-demo.html
+Sitemap: https://www.aliancasegurancadf.com.br/sitemap.xml
